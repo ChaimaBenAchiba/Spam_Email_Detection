@@ -1,4 +1,5 @@
 # Spam_Email_Detection
+![51577istockphoto-875618304-612x612](https://github.com/ChaimaBenAchiba/Spam_Email_Detection/assets/168870781/64e4a366-7a77-4f04-aed6-7fcd423e5de4)
 
 
 # Oerview
@@ -7,13 +8,14 @@ This repository contains the implementation of a spam email detection model usin
 
 # Algorithms Used:
 
-Logistic Regression
+•	Logistic Regression
 
-Random Forest Classifier
+•	Random Forest Classifier
 
-AdaBoost Classifier
+•	AdaBoost Classifier
 
-K-Nearest Neighbors (KNN)
+•	K-Nearest Neighbors (KNN)
+
 
 # Description
 
