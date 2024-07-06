@@ -1,5 +1,6 @@
 # Spam_Email_Detection
 
+
 # Oerview
 
 This repository contains the implementation of a spam email detection model using various machine learning algorithms.
@@ -25,5 +26,7 @@ Contributions are welcome! Please fork the repository and submit pull requests f
 
 # Acknowledgments
 
+Dataset Source: acknowledge [(https://www.kaggle.com/datasets/mfaisalqureshi/spam-email)] for providing the mammogram image dataset used in this project.
 
+Collaborators: Special thanks to Cognorise Infotech for providing the opportunity and support for this project.
 
